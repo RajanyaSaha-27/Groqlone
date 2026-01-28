@@ -1,5 +1,5 @@
 # Groqlone
-A simple RAG (Retrieval-Augmented Generation) chatbot for educational demonstrations.
+A simple RAG (Retrieval-Augmented Generation) chatbot for learning.
 
 ## Features
 - Chat interface for asking questions about course content
